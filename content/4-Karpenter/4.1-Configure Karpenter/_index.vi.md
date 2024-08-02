@@ -3,7 +3,7 @@ title: "Cấu hình Karpenter"
 date: "2024-04-03"
 weight: 1
 chapter: false
-pre: "<b> 3.2.1 </b>"
+pre: "<b> 4.1 </b>"
 ---
 
 #### Cấu hình Karpenter

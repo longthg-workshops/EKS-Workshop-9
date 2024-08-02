@@ -3,7 +3,7 @@ title: "Disruption"
 date: "2024-04-03"
 weight: 4
 chapter: false
-pre: "<b> 3.2.4 </b>"
+pre: "<b> 4.4 </b>"
 ---
 
 #### Disruption

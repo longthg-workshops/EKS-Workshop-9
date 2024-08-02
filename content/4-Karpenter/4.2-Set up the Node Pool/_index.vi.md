@@ -3,7 +3,7 @@ title: "Cài đặt Node Pool"
 date: "2024-04-03"
 weight: 2
 chapter: false
-pre: "<b> 3.2.2 </b>"
+pre: "<b> 4.2 </b>"
 ---
 
 #### Cài đặt Node Pool

@@ -3,7 +3,7 @@ title: "Cách hoạt động"
 date: "`r Sys.Date()`"
 weight: 3
 chapter: false
-pre: "<b> 3.1.3 </b>"
+pre: "<b> 3.3 </b>"
 ---
 
 Trong Kubernetes, Pods có thể được gán ưu tiên so với các Pods khác. Lập lịch Kubernetes sẽ sử dụng điều này để ưu tiên Pods khác có ưu tiên thấp hơn để phù hợp với các Pods có ưu tiên cao hơn. `PriorityClass` là tài nguyên với các giá trị ưu tiên được tạo ra và gán cho Pods, và một `PriorityClass` mặc định có thể được gán cho một namespace.

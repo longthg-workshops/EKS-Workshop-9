@@ -3,7 +3,7 @@ title: "Cách hoạt động"
 date: "`r Sys.Date()`"
 weight: 5
 chapter: false
-pre: "<b> 3.1.5 </b>"
+pre: "<b> 3.5 </b>"
 ---
 
 Trong bài thực hành này, chúng ta sẽ mở rộng kiến trúc ứng dụng của mình hơn so với phần CA và xem xét sự khác biệt về khả năng phản hồi.

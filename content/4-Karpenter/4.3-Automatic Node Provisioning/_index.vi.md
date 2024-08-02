@@ -3,7 +3,7 @@ title: "Tự Động Cấp Phát Node"
 date: "2024-04-03"
 weight: 3
 chapter: false
-pre: "<b> 3.2.3 </b>"
+pre: "<b> 4.3 </b>"
 ---
 
 #### Tự Động Cấp Phát Node
